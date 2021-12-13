@@ -1,0 +1,30 @@
+{
+  "name": "finalexam2107",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.3",
+    "material-ui": "^0.20.2",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.1",
+    "next": "12.0.7",
+    "next-auth": "^4.0.5",
+    "next-auth-client": "^1.5.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.12",
+    "@types/react": "17.0.37",
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7",
+    "typescript": "4.5.3"
+  }
+}
